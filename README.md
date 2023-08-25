@@ -129,7 +129,6 @@ Nota: Verifique sempre a integridade do arquivo metro.config.js qualquer problem
 - *Async Storage:* Armazenamento local para informações como favoritos e endereços.
 - *React Native Firebase:* Integração com o Firebase para autenticação e armazenamento em nuvem.
 - *Razorpay:* Integração para processamento de pagamentos.
-- *Jest:* Framework de testes.
 - *Eslint e Prettier:* Ferramentas para manter a consistência do código.
 
 ## Contribuição
